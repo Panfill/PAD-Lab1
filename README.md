@@ -24,4 +24,4 @@ Screenshots of results:
 
 1.The broker is on.
 
-![] https://github.com/Panfill/PAD-Lab1/issues/5#issue-508887301
+![](images/screenshot #5.png)
