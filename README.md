@@ -20,8 +20,6 @@ Implemented functionalities:
 5.Polling Consumer (Messaging Endpoints): a receiverof this peak will receive a message, will be able to process and pass on to the next message.
 
 
-Screenshots of results:
 
-1.The broker is on.
 
-![](images/screenshot #5.png)
+
